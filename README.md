@@ -207,4 +207,4 @@ PPJoy is available as a complete free version with all features and updates incl
 Unlock your gaming potential today! Download PPJoy for free and start enjoying your old gamepads on your Windows PC.
 
 ---
-**Last updated:** 2026-10-12 03:59:01 UTC
+**Last updated:** 2026-10-12 11:48:03 UTC
